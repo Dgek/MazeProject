@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MazeProject", "Intermediate\ProjectFiles\MazeProject.vcxproj", "{B591E838-517D-4931-B674-45D8C9FDC02D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DebugGame Editor|Windows = DebugGame Editor|Windows
+		DebugGame|Windows = DebugGame|Windows
+		Development Editor|Windows = Development Editor|Windows
+		Development|Windows = Development|Windows
+		Shipping|Windows = Shipping|Windows
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B591E838-517D-4931-B674-45D8C9FDC02D}.DebugGame Editor|Windows.ActiveCfg = DebugGame_Editor|x64
+		{B591E838-517D-4931-B674-45D8C9FDC02D}.DebugGame Editor|Windows.Build.0 = DebugGame_Editor|x64
+		{B591E838-517D-4931-B674-45D8C9FDC02D}.DebugGame|Windows.ActiveCfg = DebugGame_RocketGame|x64
+		{B591E838-517D-4931-B674-45D8C9FDC02D}.DebugGame|Windows.Build.0 = DebugGame_RocketGame|x64
+		{B591E838-517D-4931-B674-45D8C9FDC02D}.Development Editor|Windows.ActiveCfg = Development_Editor|x64
+		{B591E838-517D-4931-B674-45D8C9FDC02D}.Development Editor|Windows.Build.0 = Development_Editor|x64
+		{B591E838-517D-4931-B674-45D8C9FDC02D}.Development|Windows.ActiveCfg = Development_RocketGame|x64
+		{B591E838-517D-4931-B674-45D8C9FDC02D}.Development|Windows.Build.0 = Development_RocketGame|x64
+		{B591E838-517D-4931-B674-45D8C9FDC02D}.Shipping|Windows.ActiveCfg = Shipping_RocketGame|Win32
+		{B591E838-517D-4931-B674-45D8C9FDC02D}.Shipping|Windows.Build.0 = Shipping_RocketGame|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
